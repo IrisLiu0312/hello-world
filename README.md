@@ -1,2 +1,2 @@
 # hello-world
-Hello world!
+Rediscovering Git and Github
